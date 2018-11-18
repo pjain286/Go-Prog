@@ -1,2 +1,3 @@
 # Go-Prog
-Exercises and self mini projects in Go-prog
+Exercises from the book "The Way To Go" by IVO BALBAERT.
+Mini Projects in Go-Lang.
