@@ -1,0 +1,9 @@
+[
+	{ "Path": "/urlshort", "Url": "https://github.com/gophercises/urlshort"},
+	{ "Path": "/urlshort-final", "Url": "https://github.com/gophercises/urlshort/tree/solution"},
+	{ "Path": "/chainsmokers", "Url":"https://www.youtube.com/watch?v=W0KMtmi2H3g"},
+	{ "Path": "/khalid", "Url":"https://www.youtube.com/watch?v=tk36ovCMsU8"},
+	{ "Path": "/dj-snake", "Url":"https://www.youtube.com/watch?v=UuCq8mtK8J4"},
+	{ "Path": "/martin-garrix", "Url":"https://www.youtube.com/watch?v=pNNMr5glICM"},
+	{ "Path": "/coldplay", "Url": "https://www.youtube.com/watch?v=FM7MFYoylVs"}
+]
